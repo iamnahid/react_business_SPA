@@ -1,0 +1,126 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    
+}
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+    display: none;
+  }
+  
+#dpContainer{
+    text-align: center;
+    color: #121213;
+}
+#img {
+    text-align: center;
+}
+#skillCon{
+    width: 100%;
+}
+#homeCarousel{
+    position: relative;
+    top: 0em;
+    z-index: 0;
+}
+.carousel-indicators, .carousel-control-prev, .carousel-control-next{
+    display: none;
+}
+#title{
+    position: absolute;
+    top: 80%;
+    width: 100%;
+    height: 10em;
+    text-align: center;
+    z-index: 1;
+    color: white;
+    background-color: rgba(255, 0, 0, 0);
+}
+#title h1{
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+
+#about{
+    position: relative;
+    top: 0em;
+    height: 20em;
+    text-align: center;
+}
+#about h1,p {
+    position: relative;
+    top: 10%;
+}
+#about img{
+    position: relative;
+    top: 5%;
+    width: 100%;
+    height: 70%;
+}
+#about h1, #mission h1, #services h1{font-weight: lighter; letter-spacing: 2px;}
+#about p, .cardText{
+    padding: 5px;
+    font-weight: lighter;
+    text-align: justify;
+}
+#mission{
+    position: relative;
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+#services, #team{
+    position: relative;
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+.cardTitle{font-weight: lighter; letter-spacing: 2px;}
+.teamImg{
+    position: absolute;
+    top: 3em;
+    left: 30%;
+    width: 150px;
+    height: 150px;
+    background-color: white;
+}
+.mapRow{
+    position: relative;
+    top: 2em;
+    left: 0;
+    width: 100%;    
+    height:250px;    
+    background: linear-gradient(to right, #4776E6, #92FE9D);
+}
+.mapouter
+{    
+    position:relative;
+    text-align: center;
+    margin: 0;
+    text-align:right;
+    width: 100%;
+    height:245px;
+}
+.gmap_canvas 
+{
+    position: relative;
+    top: 5%;left: 2.5%;
+    margin: 0;
+    width: 95%;
+    height: 90%;
+    text-align: center;
+    overflow:hidden;
+    background:none!important;
+}
+.contact Row{
+    position: relative;
+}
+.contact-details{
+    position: relative;
+    text-align: center;
+    letter-spacing: 2px;
+    color: rgb(24, 24, 24);
+}
+.row{
+    text-align: center;
+}
