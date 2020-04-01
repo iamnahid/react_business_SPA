@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/business_SPA/static/css/main.29d40f25.chunk.css",
-    "main.js": "/business_SPA/static/js/main.60ceeafd.chunk.js",
-    "main.js.map": "/business_SPA/static/js/main.60ceeafd.chunk.js.map",
-    "runtime-main.js": "/business_SPA/static/js/runtime-main.d9fcac53.js",
-    "runtime-main.js.map": "/business_SPA/static/js/runtime-main.d9fcac53.js.map",
-    "static/js/2.51d6d3ec.chunk.js": "/business_SPA/static/js/2.51d6d3ec.chunk.js",
-    "static/js/2.51d6d3ec.chunk.js.map": "/business_SPA/static/js/2.51d6d3ec.chunk.js.map",
-    "index.html": "/business_SPA/index.html",
-    "precache-manifest.cb2c0a6d99762fe1f9c8a6664eb88c16.js": "/business_SPA/precache-manifest.cb2c0a6d99762fe1f9c8a6664eb88c16.js",
-    "service-worker.js": "/business_SPA/service-worker.js",
-    "static/css/main.29d40f25.chunk.css.map": "/business_SPA/static/css/main.29d40f25.chunk.css.map",
-    "static/js/2.51d6d3ec.chunk.js.LICENSE.txt": "/business_SPA/static/js/2.51d6d3ec.chunk.js.LICENSE.txt",
-    "static/media/i1.jpg": "/business_SPA/static/media/i1.33d4f984.jpg",
-    "static/media/man.png": "/business_SPA/static/media/man.b0074523.png",
-    "static/media/php.jpg": "/business_SPA/static/media/php.a4bbae4d.jpg"
+    "main.css": "/react_business_SPA/static/css/main.29d40f25.chunk.css",
+    "main.js": "/react_business_SPA/static/js/main.cafb0593.chunk.js",
+    "main.js.map": "/react_business_SPA/static/js/main.cafb0593.chunk.js.map",
+    "runtime-main.js": "/react_business_SPA/static/js/runtime-main.e2c8dfbd.js",
+    "runtime-main.js.map": "/react_business_SPA/static/js/runtime-main.e2c8dfbd.js.map",
+    "static/js/2.51d6d3ec.chunk.js": "/react_business_SPA/static/js/2.51d6d3ec.chunk.js",
+    "static/js/2.51d6d3ec.chunk.js.map": "/react_business_SPA/static/js/2.51d6d3ec.chunk.js.map",
+    "index.html": "/react_business_SPA/index.html",
+    "precache-manifest.6e22fa4d274156bda7e76e2ec9647ed6.js": "/react_business_SPA/precache-manifest.6e22fa4d274156bda7e76e2ec9647ed6.js",
+    "service-worker.js": "/react_business_SPA/service-worker.js",
+    "static/css/main.29d40f25.chunk.css.map": "/react_business_SPA/static/css/main.29d40f25.chunk.css.map",
+    "static/js/2.51d6d3ec.chunk.js.LICENSE.txt": "/react_business_SPA/static/js/2.51d6d3ec.chunk.js.LICENSE.txt",
+    "static/media/i1.jpg": "/react_business_SPA/static/media/i1.33d4f984.jpg",
+    "static/media/man.png": "/react_business_SPA/static/media/man.b0074523.png",
+    "static/media/php.jpg": "/react_business_SPA/static/media/php.a4bbae4d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d9fcac53.js",
+    "static/js/runtime-main.e2c8dfbd.js",
     "static/js/2.51d6d3ec.chunk.js",
     "static/css/main.29d40f25.chunk.css",
-    "static/js/main.60ceeafd.chunk.js"
+    "static/js/main.cafb0593.chunk.js"
   ]
 }
